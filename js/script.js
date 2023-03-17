@@ -6,4 +6,13 @@
 
 
 const nome = prompt("Ciao, come ti chiami?");
-console.log(nome);
+console.log("nome", nome);
+
+const cognome = prompt("qual è il tuo cognome?");
+console.log("cognome", cognome);
+
+const colore = prompt("quale è il tuo colore preferito?")
+console.log("colore", colore);
+
+
+
