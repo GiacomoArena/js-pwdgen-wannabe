@@ -1,4 +1,9 @@
-// Chiedi all’utente il suo nome,
-// poi chiedi il suo cognome,
-// poi chiedi il suo colore preferito
-// Infine scrivi sulla pagina nomecognomecolorepreferito23
+// 1° Chiedi all’utente il suo nome,
+// 2° poi chiedi il suo cognome,
+// 3° poi chiedi il suo colore preferito
+// 4° Infine scrivi sulla pagina nomecognomecolorepreferito23
+
+
+
+const nome = prompt("Ciao, come ti chiami?");
+console.log(nome);
