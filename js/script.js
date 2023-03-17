@@ -14,5 +14,6 @@ console.log("cognome", cognome);
 const colore = prompt("quale è il tuo colore preferito?")
 console.log("colore", colore);
 
+const password = nome + cognome + colore + "23";
 
-
+document.getElementById("password_generate").innerHTML = password;
